@@ -1,0 +1,146 @@
+/* CSS Document */
+body{
+	background-color: #cccccc;
+	font-family: Geneva,sans-serif;
+	margin:10px auto;
+	max-width: 800px;
+	border: solid;
+	border-color: #ffffff;
+}
+h1{
+	text-align: left;
+	margin-left: 50px;
+	padding-top: 30px;
+}
+h5{
+	text-align: left;
+	margin-left: 20px;
+	
+}
+header{
+	background-color: #cccccc;
+	color:#000000;
+	text-align: center;
+}
+article{
+	background-color:#eee;
+}
+p{
+	font-family: Geneva,sans-serif;
+	color:#000000;
+	text-indent: 2em;
+}
+nav,article,aside{
+	margin: 10px;
+	padding: 10px;
+	display: block;
+}
+#page_header nav{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#page_header nav ul li{
+	padding: 0;
+	margin: 0 30px 0 0;
+	display: inline;
+}
+#page_header nav ul li a{
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 20px;
+	
+}
+#posts{
+	display: block;
+	float: left;
+	width: 70%;
+	height: auto;
+	background-color: #F69；
+}
+#posts article footer{
+	background-color: #cccccc;
+	clear: both;
+	height: 30px;
+	display: block;
+	color: #ffffff;
+	text-align: right;
+	padding-top: 5px;
+}
+
+#posts article footer a{
+	color:#000000;
+	padding: 30px;
+}
+
+#sidebar{
+	display: block;
+	float: right;
+	width: 25%;
+	height: auto;
+	background-color:#699;
+	margin: 20px;
+	margin-top: 60px;
+}
+
+#sidebar1{
+	display: block;
+	float: right;
+	width: 25%;
+	height: auto;
+	background-color:#699;
+	margin: 20px;
+	
+}
+
+#sidebar1 ul li{
+
+
+	display: inline;
+}
+#sidebar1 ul li a{
+	text-decoration: none;
+	color: #ffffff;
+	
+}
+
+#page_footer{
+	display: block;
+	clear: both;
+	width: 100%;
+	margin-top: 15px; 
+	color: #ffffff;
+	text-align: center;
+	background-color:#699;
+	height: 60px;
+}
+#page_header{
+	background-color:#699;
+	height:120px;
+	margin-top: -20px;
+	color:#ffffff;
+}
+#zw{
+	font-size: 1.2em;
+	color: #000000;
+	text-align: left;
+	margin-left: 20px;
+}
+#sidebar ul li{
+	padding-right: 10px;
+	display: inline-block;
+}
+#sidebar ul li a{
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 18px;
+}
+#sidebar1 header{
+	background-color: #ffffff;
+}
+h4{
+	display: inline-block;
+}
+.comment span{
+	padding-left: 350px;
+}
